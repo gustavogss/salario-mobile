@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginTop="20dp"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/txtNomeFuncionario"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="15dp"
+        android:gravity="center"
+        android:hint="Nome do Funcionário"
+        android:inputType="textPersonName"
+        android:background="@drawable/round_text"/>
+    <EditText
+        android:id="@+id/txtValorHoraTrabalhada"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="15dp"
+        android:gravity="center"
+        android:hint="Valor da Hora Trabalhada"
+        android:inputType="numberDecimal"
+        android:background="@drawable/round_text"/>
+    <EditText
+        android:id="@+id/txtDiasTrabalhados"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="15dp"
+        android:gravity="center"
+        android:hint="Quant. Dias Trabalhados"
+        android:inputType="number"
+        android:background="@drawable/round_text"/>
+    <EditText
+        android:id="@+id/txtHorasTrabalhadas"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="15dp"
+        android:gravity="center"
+        android:hint="Quant. Horas por Dia"
+        android:inputType="number"
+        android:background="@drawable/round_text"/>
+<TextView
+    android:id="@+id/lblSalarioBruto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="15dp"
+    android:layout_marginTop="25dp"
+    android:textStyle="bold"
+    android:layout_marginRight="15dp"
+    android:text="@string/lblsalario"
+    android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/lblDescISS"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:textStyle="bold"
+        android:layout_marginRight="15dp"
+        android:text="@string/lblISS"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/lblDescFGTS"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="15dp"
+        android:textStyle="bold"
+        android:text="@string/lblDescFGTS"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/lblSalarioLiquido"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="15dp"
+        android:textStyle="bold"
+        android:text="@string/lblSalarioLiquido"
+        android:textSize="16sp"/>
+
+    <Button
+        android:id="@+id/btnCalcular"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnCalcular"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="#fdfdfd"
+        android:padding="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/round_btn"/>
+
+</LinearLayout>

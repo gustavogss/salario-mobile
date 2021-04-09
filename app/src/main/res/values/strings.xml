@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SalarioMensal</string>
+    <string name="lblsalario">Salário Bruto:</string>
+    <string name="lblISS">Desc. ISS:</string>
+    <string name="lblDescFGTS">Desc. FGTS:</string>
+    <string name="lblSalarioLiquido">Salário Liquido:</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="title_activity_splash">SalarioMensal</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="version">Versão 1.0</string>
+</resources>
