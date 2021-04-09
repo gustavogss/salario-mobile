@@ -6,7 +6,7 @@
 - Kotlin
 - Android Studio
 - Genymotion
-
-[![1.md.png](https://gustavosouza.dev.br/images/images/2021/04/09/1.md.png)](https://gustavosouza.dev.br/images/image/RmL)
-[![2.md.png](https://gustavosouza.dev.br/images/images/2021/04/09/2.md.png)](https://gustavosouza.dev.br/images/image/Agx)
-[![3.md.png](https://gustavosouza.dev.br/images/images/2021/04/09/3.md.png)](https://gustavosouza.dev.br/images/image/vd3)
+- 
+[![1.md.png](https://gustavosouza.dev.br/images/images/2021/04/09/1.md.png)](https://gustavosouza.dev.br/images/image/UuU)
+[![2.md.png](https://gustavosouza.dev.br/images/images/2021/04/09/2.md.png)](https://gustavosouza.dev.br/images/image/HwO)
+[![3.md.png](https://gustavosouza.dev.br/images/images/2021/04/09/3.md.png)](https://gustavosouza.dev.br/images/image/MgW)
