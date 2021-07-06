@@ -1,11 +1,13 @@
-# SalarioMensal
+# 💻 Projeto 
 
-#### Aplicativo simples para calcular o Salário do Mês do Funcionário desenvolvido para Android 
+Aplicativo simples para calcular o Salário do Mês do Funcionário 
 
-### Tecnologias e Ferramentas utilizadas:
+### 🤖 Tecnologias e Ferramentas utilizadas:
 - Kotlin
 - Android Studio
 - Genymotion
+
+### 📱 Layout
 
 [![1.png](https://gustavosouza.dev.br/images/images/2021/04/09/1.png)](https://gustavosouza.dev.br/images/image/10l)
 [![2.png](https://gustavosouza.dev.br/images/images/2021/04/09/2.png)](https://gustavosouza.dev.br/images/image/sAP)
