@@ -16,6 +16,10 @@ Aplicativo simples para calcular o Salário do Mês do Funcionário
 - Assim que o Android reconhecer seu celular, basta executar o projeto na seta verde na barra de tarefas
 - Maiores informações como executar via dispositivo [clique aqui](https://www.youtube.com/watch?v=aRFmmByY7k8)
 
+## Aplicativo :iphone:
+
+![11](https://user-images.githubusercontent.com/20332960/216518527-600a457e-4104-44aa-9c3e-ca77bbfcdf6e.png)
+
 
 
 
